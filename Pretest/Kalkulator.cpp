@@ -25,3 +25,10 @@ int main() {
         }
         else if (kode == 3){
             cout << "\nHasil perkalian dari "<<a<<" * "<<b<<" adalah : "<<a*b<<endl;
+        }
+        else if (kode == 4){
+            cout << "\nHasil pembagian dari "<<a<<" / "<<b<<" adalah : "<<a/b<<endl;
+        }
+    
+    return 0;
+}
