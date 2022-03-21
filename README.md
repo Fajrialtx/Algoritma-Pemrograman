@@ -3,8 +3,8 @@ Tugas Pra-Praktikum Algoritma Pemrograman
 
 Anggota :
 
--Muhammad Fajrial Permana
+- Muhammad Fajrial Permana (2100018417)
 
--Laras Yuan Indrawati
+- Laras Yuan Indrawati (2100018416)
 
--Prima Hatta Muzaghi
+- Prima Hatta Muzaghi(2100018431)
